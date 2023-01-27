@@ -1,0 +1,10 @@
+/* @import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css"; */
+
+.action-buttons{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+.mainbody{
+    background-color: black;
+}
